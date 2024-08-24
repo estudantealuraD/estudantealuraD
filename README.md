@@ -1,16 +1,20 @@
-## Hi there 👋
+## Boas vindas ao meu perfil🎧
 
-<!--
-**estudantealuraD/estudantealuraD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ O meu nome é **Davi**
 
-Here are some ideas to get you started:
+estou desenvolvendo scratch e Java script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+![](https://media.tenor.com/KRuoOhY8wfEAAAAi/bugs-bunny-multiversus.gif)
+
+meu **curriculo curriculo profissional **
+
+ https://media.tenor.com/KRuoOhY8wfEAAAAi/bugs-bunny-multiversus.gif
+
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
