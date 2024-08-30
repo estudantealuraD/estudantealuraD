@@ -8,7 +8,7 @@ estou desenvolvendo scratch e Java script
 
 meu **curriculo curriculo profissional **
 
- https://media.tenor.com/KRuoOhY8wfEAAAAi/bugs-bunny-multiversus.gif
+ https://drive.google.com/drive/home
 
 
 - 👯 I’m looking to collaborate on ...
